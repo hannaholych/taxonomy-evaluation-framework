@@ -1,0 +1,2 @@
+# taxonomy-evaluation-framework
+The Requirement-Driven Framework (RDF) is designed to provide a holistic and dynamic assessment of any taxonomy's effectiveness against the identified requirements. By leveraging the proposed RDF, organisations can assess the strengths and weaknesses of existing taxonomies, making informed decisions about which to implement, modify, or replace.
